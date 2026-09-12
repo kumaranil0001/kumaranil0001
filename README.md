@@ -9,7 +9,7 @@
 ## 🛠️ Tech Stack
 
 ### Languages
-Java • C++ • Python • JavaScript
+Java • C++ • Python • JavaScript • TypeScript 
 
 ### Web Development
 HTML • CSS • React • Node.js • Express • MongoDB • Postgres
